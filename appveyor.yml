@@ -19,4 +19,4 @@ test_script:
   - yarn run test
 
 # Don't actually build.
-# build: off
+build: off
