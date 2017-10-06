@@ -18,7 +18,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@pinkyo/validatorjs": "^0.0.3"
+    "@pinkyo/validatorjs": "^0.0.5"
   },
   "devDependencies": {
     "ava": "^0.22.0",
