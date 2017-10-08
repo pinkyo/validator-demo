@@ -44,9 +44,9 @@
   dependencies:
     arrify "^1.0.1"
 
-"@pinkyo/validatorjs@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@pinkyo/validatorjs/-/validatorjs-0.0.5.tgz#6183641794fa46b627ff6221aa2790b695be5751"
+"@pinkyo/validatorjs@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@pinkyo/validatorjs/-/validatorjs-0.0.6.tgz#205c90fb490c15801df2d8be1ed084591d071a01"
 
 abbrev@1:
   version "1.1.1"
